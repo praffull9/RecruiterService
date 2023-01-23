@@ -18,6 +18,8 @@ Spring boot service for recruiters to post jobs
 - Eureka Client (Removed temporarily)
 - Spring security (Google OAuth2)
 
+> # Please go through the PDF for more details and screenshots
+
 Developed by
 Praffull Manekar
 
