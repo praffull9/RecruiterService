@@ -7,7 +7,17 @@ Spring boot service for recruiters to post jobs
 - Register a company (MySQL cloud)
 - Register a recruiter for a company (MySQL) 
 - Post new jobs & store them in MongoDB Atlas on AWS
-- Publish the Job, Company and Recruiter data on Kafka
+- Publish the Job, Company and Recruiter data on Apache Kafka Topic for Consumers to pick
 
+# Tools used to development
+- Java17
+- Spring Boot 2.7.8
+- JPA
+- MongoDB
+- MySQL
+- Eureka Client (Removed temporarily)
+- Spring security (Google OAuth2)
 
+Developed by
+Praffull Manekar
 
