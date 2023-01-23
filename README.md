@@ -18,6 +18,8 @@ Spring boot service for recruiters to post jobs
 - MySQL
 - Eureka Client (Removed temporarily)
 - Spring security (Google OAuth2)
+- STS
+- PostMan
 
 > # Please go through the PDF for more details and screenshots
 
