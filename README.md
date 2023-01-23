@@ -12,6 +12,7 @@ Spring boot service for recruiters to post jobs
 > # Tools used to development
 - Java17
 - Spring Boot 2.7.8
+- Apache Kafka ( local Kafka can be replaced with Confluent Kafka)
 - JPA
 - MongoDB
 - MySQL
